@@ -1,4 +1,4 @@
-#Spring-MVC demo app Home Page>#
+#Spring-MVC demo app Home Page>
 
 **Upload any documents** ![Upload](screenshots/upload.png) 
 
