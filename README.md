@@ -1,5 +1,5 @@
 #Spring-MVC demo app Home Page > Upload any documents :shipit:
-![Upload](screenshots/upload.png) 
+ 
 
 
 ![Home Page](screenshots/app_scr_1.png "Home Page")
