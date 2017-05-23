@@ -1,8 +1,9 @@
-# Spring-MVC demo app > Home Page for upload any documents
+# Spring-MVC demo app > Home Page for upload any documents ![Upload](screenshots/upload.png) 
 
-![alt text](screenshots/app_scr_1.png "Home Page")
+
+![Home Page](screenshots/app_scr_1.png "Home Page")
 # Document List Page
 
-![alt text](screenshots/app_scr_2.png "Document List")
+![Document List Page](screenshots/app_scr_2.png "Document List")
 
 
